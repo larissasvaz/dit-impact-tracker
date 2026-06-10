@@ -1,1 +1,218 @@
-[ ] 
+[
+  {
+    "ts": 1781114804898,
+    "week": "10 de jun.",
+    "designer": "larissa",
+    "total": 3,
+    "dist": {
+      "md1": 0,
+      "md2": 0,
+      "md3": 1,
+      "md4": 0,
+      "md5": 0,
+      "mn1": 0,
+      "mn2": 0,
+      "mn3": 2,
+      "mn4": 0,
+      "mn5": 0
+    },
+    "targets": {
+      "md1": 10,
+      "md2": 20,
+      "md3": 15,
+      "md4": 25,
+      "md5": 10,
+      "mn1": 5,
+      "mn2": 5,
+      "mn3": 5,
+      "mn4": 5,
+      "mn5": 0
+    },
+    "cards": [
+      {
+        "key": "NC-2881",
+        "stage": null
+      },
+      {
+        "key": "NC-2880",
+        "stage": null
+      },
+      {
+        "key": "NC-2879",
+        "stage": null
+      },
+      {
+        "key": "NC-2934",
+        "stage": null
+      },
+      {
+        "key": "NC-2898",
+        "stage": null
+      },
+      {
+        "key": "NC-2899",
+        "stage": null
+      },
+      {
+        "key": "NC-2900",
+        "stage": null
+      },
+      {
+        "key": "NC-2939",
+        "stage": null
+      },
+      {
+        "key": "NC-2935",
+        "stage": null
+      },
+      {
+        "key": "NC-2936",
+        "stage": null
+      },
+      {
+        "key": "NC-2937",
+        "stage": null
+      },
+      {
+        "key": "NC-2938",
+        "stage": null
+      },
+      {
+        "key": "NC-2877",
+        "stage": null
+      },
+      {
+        "key": "NC-2846",
+        "stage": null
+      },
+      {
+        "key": "NC-2848",
+        "stage": null
+      },
+      {
+        "key": "NC-2815",
+        "stage": null
+      },
+      {
+        "key": "NC-2826",
+        "stage": null
+      },
+      {
+        "key": "NC-2829",
+        "stage": null
+      },
+      {
+        "key": "NC-2830",
+        "stage": null
+      },
+      {
+        "key": "NC-2841",
+        "stage": null
+      },
+      {
+        "key": "NC-2885",
+        "stage": null
+      },
+      {
+        "key": "NC-2886",
+        "stage": null
+      },
+      {
+        "key": "NC-2887",
+        "stage": null
+      },
+      {
+        "key": "NC-2888",
+        "stage": null
+      },
+      {
+        "key": "NC-2889",
+        "stage": null
+      },
+      {
+        "key": "NC-2891",
+        "stage": null
+      },
+      {
+        "key": "NC-2895",
+        "stage": null
+      },
+      {
+        "key": "NC-2840",
+        "stage": null
+      },
+      {
+        "key": "NC-2884",
+        "stage": null
+      },
+      {
+        "key": "NC-2901",
+        "stage": null
+      },
+      {
+        "key": "NC-2902",
+        "stage": null
+      },
+      {
+        "key": "NC-2903",
+        "stage": null
+      },
+      {
+        "key": "NC-2904",
+        "stage": null
+      },
+      {
+        "key": "NC-2940",
+        "stage": null
+      },
+      {
+        "key": "NC-2882",
+        "stage": null
+      },
+      {
+        "key": "NC-2883",
+        "stage": null
+      },
+      {
+        "key": "NC-2875",
+        "stage": null
+      },
+      {
+        "key": "NC-2941",
+        "stage": null
+      },
+      {
+        "key": "NC-1127",
+        "stage": null
+      },
+      {
+        "key": "NC-2929",
+        "stage": "mn3"
+      },
+      {
+        "key": "NC-2873",
+        "stage": "mn3"
+      },
+      {
+        "key": "NC-2828",
+        "stage": null
+      },
+      {
+        "key": "NC-2928",
+        "stage": "md3"
+      },
+      {
+        "key": "NC-2853",
+        "stage": null
+      },
+      {
+        "key": "NC-2831",
+        "stage": null
+      },
+      {
+        "key": "NC-2832",
+        "stage": null
+      }
+    ]
+  }
+]
