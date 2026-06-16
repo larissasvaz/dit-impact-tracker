@@ -1,0 +1,545 @@
+[
+  {
+    "ts": 1781631143900,
+    "week": "16 de jun.",
+    "designer": "larissa",
+    "total": 4,
+    "dist": {
+      "md1": 0,
+      "md2": 0,
+      "md3": 1,
+      "md4": 0,
+      "md5": 1,
+      "mn1": 0,
+      "mn2": 1,
+      "mn3": 0,
+      "mn4": 1,
+      "mn5": 0
+    },
+    "targets": {
+      "md1": 10,
+      "md2": 20,
+      "md3": 15,
+      "md4": 25,
+      "md5": 10,
+      "mn1": 5,
+      "mn2": 5,
+      "mn3": 5,
+      "mn4": 5,
+      "mn5": 0
+    },
+    "cards": [
+      {
+        "key": "NC-2828",
+        "summary": "Discovery de Clientes EC em atraso - com e sem vínculo",
+        "status": "Design Doing",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design",
+          "Roadmap_squad"
+        ],
+        "team": "TBD",
+        "stage": "md3"
+      },
+      {
+        "key": "NC-2929",
+        "summary": "[GenAI] Configuração de IA para Prototipação Self-Service",
+        "status": "Design To Do",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design",
+          "roadmap_design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2928",
+        "summary": "Reminder de Collections na Global Home para demitidos [Pós Vendas/ InApp]",
+        "status": "Design To Do",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design",
+          "Roadmap_squad"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2941",
+        "summary": "CES de lista de parcelas",
+        "status": "Design Doing",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design",
+          "Roadmap_squad"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2873",
+        "summary": "Garantia Consignado - [Pós Vendas/ InApp]",
+        "status": "Design Review",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design",
+          "Roadmap_squad"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2898",
+        "summary": "[Vendas / InApp] Componente Dinâmico de Oferta — Home Consignado",
+        "status": "Design Doing",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design",
+          "Roadmap_squad"
+        ],
+        "team": "TBD",
+        "stage": "md5"
+      },
+      {
+        "key": "NC-2881",
+        "summary": "[Vendas / InApp] Portabilidade — Pesquisa e Entendimento de Entrada",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-research"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2880",
+        "summary": "[Vendas / OutApp] CTPS WhatsApp — Revisão de UX e Content",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2879",
+        "summary": "[Vendas / OutApp] WhatsApp Mar Aberto — Atração e Conversão",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2934",
+        "summary": "[Vendas / InApp] Garantias — Jornada de Contratação",
+        "status": "Design Doing",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": "mn4"
+      },
+      {
+        "key": "NC-2899",
+        "summary": "Oferta Dinâmica — [Craft] Design Final de Variações de Tela",
+        "status": "Design Doing",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2900",
+        "summary": "Oferta Dinâmica — [Craft] Especificações e Specs no Figma",
+        "status": "Design Doing",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2939",
+        "summary": "Garantias — [Craft] Parâmetros GrowthBook da Tela de Seleção",
+        "status": "Design Doing",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": "mn2"
+      },
+      {
+        "key": "NC-2935",
+        "summary": "Garantias — [Discovery] Definição de Estratégia e UX",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2936",
+        "summary": "Garantias — [Discovery] Protótipos e Rascunhos da Jornada",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2937",
+        "summary": "Garantias — [Craft] Handoff V0: UI, Specs e Screen Flow",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2938",
+        "summary": "Garantias — [Craft] Mapeamento de Eventos no Mixpanel",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2877",
+        "summary": "Portabilidade — [Discovery] InApp Survey de Apetite",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-research"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2846",
+        "summary": "Garantias — [Define] Adequação da Jornada CTPS",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2848",
+        "summary": "WhatsApp Mar Aberto — [Craft] Mapeamento das Mensagens de Erro",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2815",
+        "summary": "Design Ops — [Discovery] Setup de IA para Usabilidade",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-operations"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2826",
+        "summary": "Cenários de Erro — [Task] Novos Casos Dataprev",
+        "status": "Concluido",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2829",
+        "summary": "Cenários de Erro — [Define] Mapeamento de Gaps de Cobertura",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2830",
+        "summary": "PRD Builder — [Discovery] Mapeamento de Fluxos de Documento",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-operations"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2841",
+        "summary": "CTPS WhatsApp — [Discovery] Auditoria de UX e Content",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2885",
+        "summary": "CTPS WhatsApp — [Discovery] Exploração de Caminhos de Interface",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2886",
+        "summary": "CTPS WhatsApp — [Craft] Redesign de Coleta de Dados",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2887",
+        "summary": "CTPS WhatsApp — [Craft] Revisão Gramatical e UX Writing",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2888",
+        "summary": "Cenários de Erro — [Craft] Design de Estados Visuais",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2889",
+        "summary": "Cenários de Erro — [Craft] Design da Régua de Carrinho Abandonado",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2891",
+        "summary": "Voz do Cliente — [Task] Apresentação do Roadmap Consignado",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-operations"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2895",
+        "summary": "Portabilidade — [Discovery] Pesquisa de Abandono via Typeform",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-research"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2840",
+        "summary": "WhatsApp Mar Aberto — [Craft] Handoff do Simulador v2",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2884",
+        "summary": "WhatsApp Mar Aberto — [Craft] Design QA do Simulador v2",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2901",
+        "summary": "Oferta Dinâmica — [Define] Design Critique de Propostas",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2902",
+        "summary": "Oferta Dinâmica — [Define] Refinamento e Alinhamento Técnico",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2903",
+        "summary": "Oferta Dinâmica — [Craft] Design QA Lumen (Design System)",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2904",
+        "summary": "Oferta Dinâmica — [Craft] Design QA Pós-Implementação",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2940",
+        "summary": "Garantias — [Craft] InApp Survey: Definição e Handoff",
+        "status": "Design To Do",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2882",
+        "summary": "[Vendas / InApp] Cenários de Erro e Push de Recuperação",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2883",
+        "summary": "[Design / Ops] Novo Consignado — Rituais, Templates e Ferramentas",
+        "status": "Backlog",
+        "assigneeId": "712020:541a61c0-c4bf-4b2e-a641-56a7e32b624d",
+        "categories": [
+          "ec-operations"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2875",
+        "summary": "Portabilidade de Saída [Pós Vendas/ InApp]",
+        "status": "Design Done",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design",
+          "Roadmap_squad"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-1127",
+        "summary": "Pagamento via PIX",
+        "status": "Backlog",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2853",
+        "summary": "Testes no regressivo IOS e Android",
+        "status": "Design Done",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2831",
+        "summary": "Réguas de comunicação de antecipação de parcelas",
+        "status": "Design Done",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      },
+      {
+        "key": "NC-2832",
+        "summary": "Vídeo da nova feature de antecipação",
+        "status": "Design Done",
+        "assigneeId": "712020:807619ef-af29-4059-9d47-c98eddb1d4dd",
+        "categories": [
+          "ec-design"
+        ],
+        "team": "TBD",
+        "stage": null
+      }
+    ]
+  }
+]
